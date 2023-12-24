@@ -25,7 +25,7 @@ This application is built using:
 - [ModelSim] - An application used to simulate the VHDL program that has been created.
 
 ## Credit
-> Azriel Dimas Ash-Shidiqi (2206059414) - Teknik Komputer'22 - Universitas Indonesia
-> Lavly Rantissa Zunnuraina Rusdi (2206830624) - Teknik Komputer'22 - Universitas Indonesia
-> Muhammad Rifki Pratama (2206828903) - Teknik Komputer'22 - Universitas Indonesia
-> Muhammad Jibril Adrian (2206059660) - Teknik Komputer'22 - Universitas Indonesia
+- > Azriel Dimas Ash-Shidiqi (2206059414) - Teknik Komputer'22 - Universitas Indonesia
+- > Lavly Rantissa Zunnuraina Rusdi (2206830624) - Teknik Komputer'22 - Universitas Indonesia
+- > Muhammad Rifki Pratama (2206828903) - Teknik Komputer'22 - Universitas Indonesia
+- > Muhammad Jibril Adrian (2206059660) - Teknik Komputer'22 - Universitas Indonesia
